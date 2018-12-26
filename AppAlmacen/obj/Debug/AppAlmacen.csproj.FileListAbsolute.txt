@@ -26,3 +26,6 @@ C:\Users\Rony\Desktop\Laboratorio V\AppAlmacen\AppAlmacen\obj\Debug\AppAlmacen.f
 C:\Users\Rony\Desktop\Laboratorio V\AppAlmacen\AppAlmacen\obj\Debug\AppAlmacen.fmTipoProducto.resources
 C:\Users\Rony\Desktop\Laboratorio V\AppAlmacen\AppAlmacen\obj\Debug\AppAlmacen.fmConsultaFactura.resources
 C:\Users\Rony\Desktop\Laboratorio V\AppAlmacen\AppAlmacen\obj\Debug\AppAlmacen.csprojAssemblyReference.cache
+C:\Users\INFO\Documents\GitHub\Info_Sistema_Ventas\AppAlmacen\bin\Debug\AppAlmacen.exe.config
+C:\Users\INFO\Documents\GitHub\Info_Sistema_Ventas\AppAlmacen\obj\Debug\AppAlmacen.exe
+C:\Users\INFO\Documents\GitHub\Info_Sistema_Ventas\AppAlmacen\obj\Debug\AppAlmacen.pdb

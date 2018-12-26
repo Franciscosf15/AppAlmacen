@@ -35,16 +35,16 @@
             this.buNuevo = new System.Windows.Forms.Button();
             this.panel3 = new System.Windows.Forms.Panel();
             this.dgvClientes = new System.Windows.Forms.DataGridView();
-            this.label2 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
-            this.label5 = new System.Windows.Forms.Label();
             this.tbNombre = new System.Windows.Forms.TextBox();
-            this.tbCodClien = new System.Windows.Forms.TextBox();
-            this.tbRuc = new System.Windows.Forms.TextBox();
-            this.tbTelefono = new System.Windows.Forms.TextBox();
             this.tbDireccion = new System.Windows.Forms.TextBox();
+            this.tbTelefono = new System.Windows.Forms.TextBox();
+            this.tbRuc = new System.Windows.Forms.TextBox();
+            this.tbCodClien = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             this.panel3.SuspendLayout();
@@ -127,32 +127,50 @@
             this.dgvClientes.Size = new System.Drawing.Size(561, 179);
             this.dgvClientes.TabIndex = 12;
             // 
-            // label2
+            // tbNombre
             // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(53, 121);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(39, 13);
-            this.label2.TabIndex = 1;
-            this.label2.Text = "RUC : ";
+            this.tbNombre.Location = new System.Drawing.Point(139, 37);
+            this.tbNombre.Name = "tbNombre";
+            this.tbNombre.Size = new System.Drawing.Size(282, 20);
+            this.tbNombre.TabIndex = 11;
             // 
-            // label3
+            // tbDireccion
             // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(53, 66);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(61, 13);
-            this.label3.TabIndex = 2;
-            this.label3.Text = "Dirección : ";
+            this.tbDireccion.Location = new System.Drawing.Point(139, 63);
+            this.tbDireccion.Name = "tbDireccion";
+            this.tbDireccion.Size = new System.Drawing.Size(282, 20);
+            this.tbDireccion.TabIndex = 10;
             // 
-            // label4
+            // tbTelefono
             // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(52, 40);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(53, 13);
-            this.label4.TabIndex = 3;
-            this.label4.Text = "Nombre : ";
+            this.tbTelefono.Location = new System.Drawing.Point(139, 89);
+            this.tbTelefono.Name = "tbTelefono";
+            this.tbTelefono.Size = new System.Drawing.Size(282, 20);
+            this.tbTelefono.TabIndex = 9;
+            // 
+            // tbRuc
+            // 
+            this.tbRuc.Location = new System.Drawing.Point(139, 118);
+            this.tbRuc.Name = "tbRuc";
+            this.tbRuc.Size = new System.Drawing.Size(282, 20);
+            this.tbRuc.TabIndex = 8;
+            // 
+            // tbCodClien
+            // 
+            this.tbCodClien.Location = new System.Drawing.Point(139, 11);
+            this.tbCodClien.Name = "tbCodClien";
+            this.tbCodClien.Size = new System.Drawing.Size(282, 20);
+            this.tbCodClien.TabIndex = 6;
+            this.tbCodClien.Leave += new System.EventHandler(this.tbCodClien_Leave);
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(52, 14);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(46, 13);
+            this.label6.TabIndex = 5;
+            this.label6.Text = "Código: ";
             // 
             // label5
             // 
@@ -163,50 +181,32 @@
             this.label5.TabIndex = 4;
             this.label5.Text = "Telefono: ";
             // 
-            // tbNombre
+            // label4
             // 
-            this.tbNombre.Location = new System.Drawing.Point(139, 37);
-            this.tbNombre.Name = "tbNombre";
-            this.tbNombre.Size = new System.Drawing.Size(282, 20);
-            this.tbNombre.TabIndex = 11;
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(52, 40);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(53, 13);
+            this.label4.TabIndex = 3;
+            this.label4.Text = "Nombre : ";
             // 
-            // tbCodClien
+            // label3
             // 
-            this.tbCodClien.Location = new System.Drawing.Point(139, 11);
-            this.tbCodClien.Name = "tbCodClien";
-            this.tbCodClien.Size = new System.Drawing.Size(282, 20);
-            this.tbCodClien.TabIndex = 6;
-            this.tbCodClien.Leave += new System.EventHandler(this.tbCodClien_Leave);
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(53, 66);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(61, 13);
+            this.label3.TabIndex = 2;
+            this.label3.Text = "Dirección : ";
             // 
-            // tbRuc
+            // label2
             // 
-            this.tbRuc.Location = new System.Drawing.Point(139, 118);
-            this.tbRuc.Name = "tbRuc";
-            this.tbRuc.Size = new System.Drawing.Size(282, 20);
-            this.tbRuc.TabIndex = 8;
-            // 
-            // tbTelefono
-            // 
-            this.tbTelefono.Location = new System.Drawing.Point(139, 89);
-            this.tbTelefono.Name = "tbTelefono";
-            this.tbTelefono.Size = new System.Drawing.Size(282, 20);
-            this.tbTelefono.TabIndex = 9;
-            // 
-            // tbDireccion
-            // 
-            this.tbDireccion.Location = new System.Drawing.Point(139, 63);
-            this.tbDireccion.Name = "tbDireccion";
-            this.tbDireccion.Size = new System.Drawing.Size(282, 20);
-            this.tbDireccion.TabIndex = 10;
-            // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(52, 14);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(81, 13);
-            this.label6.TabIndex = 5;
-            this.label6.Text = "Código Cliente: ";
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(53, 121);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(39, 13);
+            this.label2.TabIndex = 1;
+            this.label2.Text = "RUC : ";
             // 
             // fmCliente
             // 
