@@ -1,0 +1,12 @@
+D:\Universidad\Sistemas de Informacion II Prof. Ana Rocio\AppAdmiSystemPro\UtpTestUnitarios\bin\Debug\UtpTestUnitarios.dll
+D:\Universidad\Sistemas de Informacion II Prof. Ana Rocio\AppAdmiSystemPro\UtpTestUnitarios\bin\Debug\UtpTestUnitarios.pdb
+D:\Universidad\Sistemas de Informacion II Prof. Ana Rocio\AppAdmiSystemPro\UtpTestUnitarios\bin\Debug\AppAdmiSystemPro.exe
+D:\Universidad\Sistemas de Informacion II Prof. Ana Rocio\AppAdmiSystemPro\UtpTestUnitarios\bin\Debug\LibFormularios.dll
+D:\Universidad\Sistemas de Informacion II Prof. Ana Rocio\AppAdmiSystemPro\UtpTestUnitarios\bin\Debug\LibTablas.dll
+D:\Universidad\Sistemas de Informacion II Prof. Ana Rocio\AppAdmiSystemPro\UtpTestUnitarios\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Universidad\Sistemas de Informacion II Prof. Ana Rocio\AppAdmiSystemPro\UtpTestUnitarios\bin\Debug\AppAdmiSystemPro.pdb
+D:\Universidad\Sistemas de Informacion II Prof. Ana Rocio\AppAdmiSystemPro\UtpTestUnitarios\bin\Debug\LibFormularios.pdb
+D:\Universidad\Sistemas de Informacion II Prof. Ana Rocio\AppAdmiSystemPro\UtpTestUnitarios\bin\Debug\LibTablas.pdb
+D:\Universidad\Sistemas de Informacion II Prof. Ana Rocio\AppAdmiSystemPro\UtpTestUnitarios\obj\Debug\UtpTestUnitarios.csprojResolveAssemblyReference.cache
+D:\Universidad\Sistemas de Informacion II Prof. Ana Rocio\AppAdmiSystemPro\UtpTestUnitarios\obj\Debug\UtpTestUnitarios.dll
+D:\Universidad\Sistemas de Informacion II Prof. Ana Rocio\AppAdmiSystemPro\UtpTestUnitarios\obj\Debug\UtpTestUnitarios.pdb
