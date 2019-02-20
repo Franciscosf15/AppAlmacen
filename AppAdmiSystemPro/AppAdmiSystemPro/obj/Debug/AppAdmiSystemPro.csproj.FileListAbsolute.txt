@@ -1,0 +1,14 @@
+D:\Universidad\Sistemas de Informacion II Prof. Ana Rocio\AppAdmiSystemPro\AppAdmiSystemPro\bin\Debug\AppAdmiSystemPro.exe.config
+D:\Universidad\Sistemas de Informacion II Prof. Ana Rocio\AppAdmiSystemPro\AppAdmiSystemPro\bin\Debug\AppAdmiSystemPro.exe
+D:\Universidad\Sistemas de Informacion II Prof. Ana Rocio\AppAdmiSystemPro\AppAdmiSystemPro\bin\Debug\AppAdmiSystemPro.pdb
+D:\Universidad\Sistemas de Informacion II Prof. Ana Rocio\AppAdmiSystemPro\AppAdmiSystemPro\bin\Debug\LibFormularios.dll
+D:\Universidad\Sistemas de Informacion II Prof. Ana Rocio\AppAdmiSystemPro\AppAdmiSystemPro\bin\Debug\LibTablas.dll
+D:\Universidad\Sistemas de Informacion II Prof. Ana Rocio\AppAdmiSystemPro\AppAdmiSystemPro\bin\Debug\LibFormularios.pdb
+D:\Universidad\Sistemas de Informacion II Prof. Ana Rocio\AppAdmiSystemPro\AppAdmiSystemPro\bin\Debug\LibTablas.pdb
+D:\Universidad\Sistemas de Informacion II Prof. Ana Rocio\AppAdmiSystemPro\AppAdmiSystemPro\obj\Debug\AppAdmiSystemPro.csprojResolveAssemblyReference.cache
+D:\Universidad\Sistemas de Informacion II Prof. Ana Rocio\AppAdmiSystemPro\AppAdmiSystemPro\obj\Debug\AppAdmiSystemPro.FrmInicioSesion.resources
+D:\Universidad\Sistemas de Informacion II Prof. Ana Rocio\AppAdmiSystemPro\AppAdmiSystemPro\obj\Debug\AppAdmiSystemPro.FrmProgramaPrincipal.resources
+D:\Universidad\Sistemas de Informacion II Prof. Ana Rocio\AppAdmiSystemPro\AppAdmiSystemPro\obj\Debug\AppAdmiSystemPro.Properties.Resources.resources
+D:\Universidad\Sistemas de Informacion II Prof. Ana Rocio\AppAdmiSystemPro\AppAdmiSystemPro\obj\Debug\AppAdmiSystemPro.csproj.GenerateResource.Cache
+D:\Universidad\Sistemas de Informacion II Prof. Ana Rocio\AppAdmiSystemPro\AppAdmiSystemPro\obj\Debug\AppAdmiSystemPro.exe
+D:\Universidad\Sistemas de Informacion II Prof. Ana Rocio\AppAdmiSystemPro\AppAdmiSystemPro\obj\Debug\AppAdmiSystemPro.pdb

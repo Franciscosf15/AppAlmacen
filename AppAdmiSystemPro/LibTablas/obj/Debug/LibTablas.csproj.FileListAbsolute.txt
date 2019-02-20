@@ -1,0 +1,4 @@
+D:\Universidad\Sistemas de Informacion II Prof. Ana Rocio\AppAdmiSystemPro\LibTablas\bin\Debug\LibTablas.dll
+D:\Universidad\Sistemas de Informacion II Prof. Ana Rocio\AppAdmiSystemPro\LibTablas\bin\Debug\LibTablas.pdb
+D:\Universidad\Sistemas de Informacion II Prof. Ana Rocio\AppAdmiSystemPro\LibTablas\obj\Debug\LibTablas.dll
+D:\Universidad\Sistemas de Informacion II Prof. Ana Rocio\AppAdmiSystemPro\LibTablas\obj\Debug\LibTablas.pdb
